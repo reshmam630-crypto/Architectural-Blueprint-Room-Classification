@@ -1,1 +1,27 @@
+References and Learning Resources
 
+The following research papers and official documentation were useful for understanding the concepts and technologies applied in this project.
+
+Research Papers
+
+Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. International Conference on Machine Learning (ICML).
+
+Technical Documentation
+
+PyTorch Documentation — Deep learning framework and model training.
+
+TorchVision — EfficientNetB0 — Pretrained model architecture and weights.
+
+OpenCV Documentation — Image processing and contrast enhancement using CLAHE.
+
+Albumentations Documentation — Image augmentation and preprocessing.
+
+Albumentations with PyTorch — Image classification workflows.
+
+Development Environment
+
+Python
+
+Google Colab
+
+Jupyter Notebook
