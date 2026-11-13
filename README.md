@@ -137,7 +137,7 @@ Architectural-Blueprint-Room-Classification/
 ├── README.md
 │
 └── images/
-    └── .png
+    └── Blueprint to AI Room Classification Workflow.png
 ```
 
 Additional source code, experiments, and evaluation visualizations can be added as approved project materials become available.
