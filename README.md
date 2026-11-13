@@ -199,7 +199,4 @@ This project was conducted in the context of architectural room classification f
 ---
 
 *Exploring how deep learning can transform architectural image analysis.*
-## Project Workflow
 
-![Architectural Blueprint Room Classification](images/Blueprint%20to%20AI%20Room%20Classification%20Workflow.png)
-*Exploring how deep learning can transform architectural image analysis.*
